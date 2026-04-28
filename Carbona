@@ -1,0 +1,14 @@
+- nabuhat sa clone nga file...
+Completed:
+
++ cleaned the backend structure
++ removed repeated legacy files/folders
++ cleaned remaining backend folders
++ aligned the login email/password fields
++ polished the login page styling
++ fixed the two backend review findings
+
+- na remember nga na download nako sa ani nga file...
+
+Pytesseract (Python-tesseract) 
+- is an open-source Optical Character Recognition (OCR) tool for Python that serves as a wrapper or "bridge" for Google’s Tesseract-OCR Engine. It allows developers to "read" and convert text embedded in images, scanned documents, or PDFs into editable, machine-readable string formats
